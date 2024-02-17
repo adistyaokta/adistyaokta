@@ -1,4 +1,4 @@
-<h5 align="left">Hey fellow devs! ☕ Coffee in hand? Run your command!</h5>
+<h1 align="left">Hey fellow devs! ☕ Coffee in hand? Run your command!</h1>
 
 ###
 
